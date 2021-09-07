@@ -1,0 +1,4 @@
+future==0.18.2
+numpy==1.21.2
+SimpleITK==2.0.0
+torch==1.5.1
