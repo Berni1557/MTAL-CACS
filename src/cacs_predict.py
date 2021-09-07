@@ -22,7 +22,9 @@ def main(args):
     data_dir = args.data_dir
     model_dir = args.model_dir
     prediction_dir = args.prediction_dir
-    prediction_dir = args.prediction_dir
+
+    # Create directory
+    os.makedirs(prediction_dir, exist_ok=True)
 
     # Create model
     model = MTALModel(args.device)
