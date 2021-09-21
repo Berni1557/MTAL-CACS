@@ -14,8 +14,6 @@ To install requirements:
 pip install -r requirements.txt
 ```
 
->📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
-
 ## Prediction
 
 To predict the model in the paper, copy  all non-contrast enhanced cardiac CT (.mhd file format) into the data folder. To run the script, you can run the cacs.sh script or run the python script in the terminal directly.
