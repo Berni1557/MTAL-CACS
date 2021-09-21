@@ -34,13 +34,13 @@ Since the training set and corresponding annottaions are not public, a training 
 
 ## Contributing
 
-Bernhard Föllmer
-Charité - Universitätsmedizin Berlin
-Klinik für Radiologie
-Campus Charité Mitte (CCM)
-Charitéplatz 1
-10117 Berlin
-E-Mail: bernhard.foellmer@charite.de
-Tel: +49 30 450 527365
-http://www.charite.de
+Bernhard Föllmer  
+Charité - Universitätsmedizin Berlin  
+Klinik für Radiologie  
+Campus Charité Mitte (CCM)  
+Charitéplatz 1  
+10117 Berlin  
+E-Mail: bernhard.foellmer@charite.de  
+Tel: +49 30 450 527365  
+http://www.charite.de  
 
